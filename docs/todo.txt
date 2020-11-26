@@ -1,0 +1,9 @@
+Todo:
+- TS refactor
+- check tasks(toggle btn, list etc)
+- unit tests
+- slots tasks
+- routing tasks
+- vuex tasks
+- cy tasks
+

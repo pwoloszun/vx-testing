@@ -1,0 +1,16 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "sourceMap": false,
+    "types": [
+      "node",
+      "cypress",
+      "@testing-library/cypress",
+      "cypress-wait-until"
+    ]
+  },
+  "include": [
+    "**/*.ts"
+  ],
+  "exclude": []
+}

@@ -1,0 +1,9 @@
+1) normalize and FLATTEN data as much as possible
+Never hold duplicate data in the app state
+Avoid modeling state after server API
+Avoid modeling state after what views like to consume
+5. Never store derived data in the state
+
+
+
+

@@ -1,0 +1,9 @@
+1) Redux:
+--select
+----MESSAGES_TABLE
+----AUTHORS_TABLE
+--filter
+----AUTHORS_TABLE
+--sort
+----MESSAGES_TABLE
+----AUTHORS_TABLE
